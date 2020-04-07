@@ -1,0 +1,15 @@
+{
+  "name": "ArduinoSwitch",
+  "keywords": "button, switch",
+  "description": "Arduino Switch allows easy implementation of buttons/switch using just a few lines of code.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Nero7991/ArduinoSwitch"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
